@@ -1,0 +1,20 @@
+environment Setting
+------------------------------------------------------------------------
+[VIsual Studio Code] terminal Open
+
+cd desktop
+
+npx degit SON7AE/vue3_webpack_template#eslint vue3-weather
+
+cd vue3-weather 
+
+npm install
+------------------------------------------------------------------------
+extensions Setting
+
+Vue.js - Vetur, ES7 React snippets, ESLint
+
+VSCode - VSCode Great Icons, HTML CSS Support, 
+Prettier - Code formatter, Visual Studio IntelliCode
+
+
